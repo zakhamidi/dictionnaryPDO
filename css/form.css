@@ -1,0 +1,81 @@
+/* page layout */
+
+header h2{
+    font-size:22px;
+    font-weight:normal;
+    left:50%;
+    margin-left:-400px;
+    padding:22px 0;
+    position:absolute;
+    width:540px;
+}
+header a.stuts,a.stuts:visited{
+    border:none;
+    text-decoration:none;
+    color:#fcfcfc;
+    font-size:14px;
+    left:50%;
+    line-height:31px;
+    margin:23px 0 0 110px;
+    position:absolute;
+    top:0;
+}
+header .stuts span {
+    font-size:22px;
+    font-weight:bold;
+    margin-left:5px;
+}
+
+/* main styles */
+.container {
+    background-color: #222;
+    color: #fff;
+    margin: 20px auto;
+    overflow: hidden;
+
+    position: relative;
+
+}
+.container h2 {
+    background-color: #222;
+    color: #fff;
+   
+    overflow: hidden;
+    padding:20px;
+    position: relative;
+
+}
+form {
+    background-color: #555;
+    display: block;
+
+}
+input[type=text], input[type=password], input[type=submit] {
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+input[type=text], input[type=password], select {
+    background-color: rgb(246, 254, 231);
+    border-color: rgb(180, 207, 94);
+    border-style: solid;
+    border-width: 1px;
+    font-size: 16px;
+    height: 25px;
+    margin-right: 10px;
+
+}
+
+input.wrong {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(255, 183, 183);
+}
+input.correct {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(220, 251, 164);
+}
+#pass_result {
+    float: right;
+}

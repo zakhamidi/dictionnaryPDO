@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<produits>
+	<produit idProduit="1">
+		<nom>Clavier</nom>
+		<pu>45</pu>
+		<qte>100</qte>
+		<img>livre-xhtml-css.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+		
+	</produit>
+	<produit ref="2">
+		<nom>Souris</nom>
+		<pu>30</pu>
+		<qte>150</qte>
+		<img>Ordinateur_portable.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="3">
+		<nom>Clavier</nom>
+		<pu>60</pu>
+		<qte>120</qte>
+		<img>Television-LCD-94-pouces-LG-145-2.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="4">
+		<nom>Ecran</nom>
+		<pu>650</pu>
+		<qte>30</qte>
+		<img>livre-xhtml-css.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="5">
+		<nom>Tapis</nom>
+		<pu>15</pu>
+		<qte>500</qte>
+		<img>Ordinateur_portable.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="130">
+		<nom>tt</nom>
+		<pu>1000</pu>
+		<qte>10</qte>
+		<img>livre-xhtml-css.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="11">
+		<nom>ppppp</nom>
+		<pu>200</pu>
+		<qte>140</qte>
+		<img>Penguins.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="24">
+		<nom>ffffff</nom>
+		<pu>2211</pu>
+		<qte>225</qte>
+		<img>Chrysanthemum.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="21212">
+		<nom>bggg</nom>
+		<pu>55</pu>
+		<qte>666</qte>
+		<img>Koala.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+	<produit ref="222">
+		<nom>ppppp</nom>
+		<pu>251</pu>
+		<qte>33</qte>
+		<img>Tulips.jpg</img>
+		<dateD>100</dateD>
+		<dateF>100</dateF>
+	</produit>
+</produits>
